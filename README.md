@@ -58,10 +58,15 @@ Create a `.env` file in the root folder:
 Project Structure
 Invisible-Crisis-AI-App/
 ├── app.py               # Main Streamlit application
+
 ├── reports.csv          # Community reports dataset
+
 ├── requirements.txt     # Python dependencies
+
 ├── .env                 # API key (not pushed to GitHub)
+
 ├── .gitignore           # Excludes .env from version control
+
 └── README.md            # Project documentation
 
 
