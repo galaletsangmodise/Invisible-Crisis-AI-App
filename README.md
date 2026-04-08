@@ -56,7 +56,9 @@ Create a `.env` file in the root folder:
 ```bash streamlit run app.py```
 
 Project Structure
+
 Invisible-Crisis-AI-App/
+
 ├── app.py               # Main Streamlit application
 
 ├── reports.csv          # Community reports dataset
