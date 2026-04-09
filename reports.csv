@@ -1,0 +1,14 @@
+timestamp,location,text,category,risk_score
+2026-04-01 00:00:00.000000,Zone A,Water smells strange ,Health,1.0
+2026-04-01 00:00:00.000000,Zone A,Feeling sick after drinking tap water ,Health,3.0
+2026-04-02 00:00:00.000000,Zone B,Taxi overloaded again ,Safety,3.0
+2026-04-02 00:00:00.000000,Zone B,Driver speeding dangerously ,Other,3.0
+2026-04-03 00:00:00.000000,Zone A,Headache and nausea ,Other,1.0
+2026-04-03 00:00:00.000000,Zone C,No electricity for 12 hours ,Infrastructure,1.0
+2026-04-03 00:00:00.000000,Zone A,Water is brown today,Health,1.0
+2026-04-08 21:45:44.596766,Zone A,Taxi overloaded again,Safety,3.0
+2026-04-08 21:45:44.596793,Zone B,Crime suspicious activity,Safety,3.0
+2026-04-08 21:45:44.596806,Zone C,Crime suspicious activity,Safety,3.0
+2026-04-08 21:45:44.596816,Zone C,Power outage for hours,Infrastructure,1.0
+2026-04-08 21:45:44.596826,Zone A,Taxi overloaded again,Safety,3.0
+2026-04-08 21:47:13.369328,Zone B,Dirty water coming out of taps,,
